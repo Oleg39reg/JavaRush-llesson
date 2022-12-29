@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9424882d-b449-403c-939d-a72cefaadc56" name="Changes" comment="Лекция 1 JavaRush пример&quot;Амиго&quot;:">
-      <change afterPath="$PROJECT_DIR$/src/Amigo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9424882d-b449-403c-939d-a72cefaadc56" name="Changes" comment="Лекция 1 JavaRush пример&quot;Амиго&quot; 2 пример:" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672331934844</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Лекция 1 JavaRush пример&quot;Амиго&quot; 2 пример:">
+      <created>1672338547509</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1672338547509</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +127,7 @@
     <MESSAGE value="Лекция 1 JavaRush пример1:" />
     <MESSAGE value="Лекция 1 JavaRush пример2:" />
     <MESSAGE value="Лекция 1 JavaRush пример&quot;Амиго&quot;:" />
-    <option name="LAST_COMMIT_MESSAGE" value="Лекция 1 JavaRush пример&quot;Амиго&quot;:" />
+    <MESSAGE value="Лекция 1 JavaRush пример&quot;Амиго&quot; 2 пример:" />
+    <option name="LAST_COMMIT_MESSAGE" value="Лекция 1 JavaRush пример&quot;Амиго&quot; 2 пример:" />
   </component>
 </project>
