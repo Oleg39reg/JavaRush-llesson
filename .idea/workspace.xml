@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9424882d-b449-403c-939d-a72cefaadc56" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javalesson.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hous.java" afterDir="false" />
+    <list default="true" id="9424882d-b449-403c-939d-a72cefaadc56" name="Changes" comment="Лекция 1 JavaRush пример&quot;Амиго&quot;:">
+      <change afterPath="$PROJECT_DIR$/src/Amigo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +42,20 @@
     "settings.editor.splitter.proportion": "0.31201765"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Amigo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Amigo" />
+      <module name="javalesson" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Amigo" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -56,6 +65,64 @@
       <option name="presentableId" value="Default" />
       <updated>1672321130257</updated>
     </task>
+    <task id="LOCAL-00001" summary="Лекция 1 JavaRush пример1:">
+      <created>1672329385592</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672329385592</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Лекция 1 JavaRush пример2:">
+      <created>1672331302587</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672331302587</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Лекция 1 JavaRush пример&quot;Амиго&quot;:">
+      <created>1672331913733</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672331913733</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Лекция 1 JavaRush пример&quot;Амиго&quot;:">
+      <created>1672331934844</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672331934844</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Лекция 1 JavaRush пример1:" />
+    <MESSAGE value="Лекция 1 JavaRush пример2:" />
+    <MESSAGE value="Лекция 1 JavaRush пример&quot;Амиго&quot;:" />
+    <option name="LAST_COMMIT_MESSAGE" value="Лекция 1 JavaRush пример&quot;Амиго&quot;:" />
   </component>
 </project>
