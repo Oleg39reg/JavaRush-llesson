@@ -2,15 +2,13 @@ import java.util.Scanner;
 
 public class practick {
     public static void main(String[] arge) {
-        double a, b;
-        Scanner in = new Scanner(System.in);// Создаём объект "сканер" на него будет работать ссылка in
+        int a = 7;
+        float b = 2;
+        double c = (double) a / b;
 
-        System.out.print("a = "); a = in.nextDouble();
-        System.out.print("b = "); b = in.nextDouble();
+        float d = 7.0f / 2;
 
-        double p = 2*(a+b);
-
-        System.out.println(p);
-        in.close();
+        int ost = 10 % 3;
+        System.out.println(ost);
     }
 }
