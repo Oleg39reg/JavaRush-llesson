@@ -1,9 +1,16 @@
+import java.util.Scanner;
+
 public class practick {
-    public static void main(String[] arge){
-    float a=5.8f, b=7.6f;
-    double c=a-b;
+    public static void main(String[] arge) {
+        double a, b;
+        Scanner in = new Scanner(System.in);// Создаём объект "сканер" на него будет работать ссылка in
 
+        System.out.print("a = "); a = in.nextDouble();
+        System.out.print("b = "); b = in.nextDouble();
 
-    System.out.println(c);
+        double p = 2*(a+b);
+
+        System.out.println(p);
+        in.close();
     }
 }
