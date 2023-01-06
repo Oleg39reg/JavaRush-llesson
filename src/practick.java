@@ -10,5 +10,10 @@ public class practick {
 
         int ost = 10 % 3;
         System.out.println(ost);
+
+        a += 5;// увеличить а на 5
+        b -= 3;//уменьшить на 3
+        c *= 2;//увеличить в 2
+        d /= 4;//уменьшит в 4 раза
     }
 }
