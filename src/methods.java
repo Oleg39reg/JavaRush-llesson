@@ -1,12 +1,12 @@
 public class methods {
     public static void main(String[] args) {
         Person person1 = new Person();
-        person1.setName("Роман");
-        person1.age = 33;
+        person1.setNameAndAge("Роман", 20);
+
         String s1 = "Вова";
         Person person2 = new Person();
-        person2.setName(s1);
-        person2.age = 20;
+        person2.setNameAndAge(s1, 33);
+
         person1.speak();
         person2.speak();
     }
@@ -17,8 +17,9 @@ class Person {
     String name;
     int age;
 
-    void setName(String userName) {
+    void setNameAndAge(String userName, int userAge) {
         name = userName;
+        age = userAge;
     }
 
     int calcLateYearsToRetiremment() {
